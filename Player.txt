@@ -1,2 +1,4 @@
 merha
 ba
+
+print(nasılsın?)
